@@ -6,7 +6,7 @@
 - Member 2 (Edit)
 - Member 3 (Edit)
 - Member 4 (Edit)
-- Trial Member
+- Blah Blah
 
 ## Project Description
 *This is made for a school project*
